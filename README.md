@@ -1,4 +1,4 @@
-# Code for Figure 5 - [Giant Icebergs Increase Mixing and Stratification in Upper-Ocean Layers](https://www.researchsquare.com/article/rs-4425629/v1)
+# Code for Figure 5 - [Giant Icebergs Increase Mixing and Stratification in Upper-Ocean Layers, Lucas et al.](https://www.researchsquare.com/article/rs-4425629/v1)
 
 This repository contains the Jupyter notebooks used to generate **Figure 5** in [*Giant Icebergs Increase Mixing and Stratification in Upper-Ocean Layers*](https://www.researchsquare.com/article/rs-4425629/v1).
 
